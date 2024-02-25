@@ -9,4 +9,4 @@ Sales director Bruce Haryali wanted this immediately but the analytics manager T
 
 Problem Statement: https://codebasics.io/challenge/codebasics-resume-project-challenge
 
-Dashbord Link: https://app.powerbi.com/reportEmbed?reportId=cb83b01c-e673-45a4-abc9-ead843185903&autoAuth=true&ctid=9615cc68-c52e-43e3-8756-c019e8d2f1bd
+Dashbord Link: https://www.novypro.com/project/sales-analysis-133
